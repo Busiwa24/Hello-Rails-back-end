@@ -6,7 +6,7 @@
 
 ## Link to Front end
 
-[Hello React front end](https://github.com/Chimwemwe-127001/hello-react-front-end)
+[Hello React front end](https://github.com/Busiwa24/hello-react-front-end)
 
 ## Built With
 
@@ -30,7 +30,7 @@ To get a local copy up and running follow these simple example steps.
 - Clone the project
 
 ```sh
-git clone git@github.com:Chimwemwe-127001/hello-rails-back-end.git
+git clone git@github.com:Busiwa24/hello-rails-back-end.git
 cd hello-rails-back-end
 ```
 
@@ -64,14 +64,14 @@ Visit http://localhost:3000/ in your browser.
 
 👤 **Chimwemwe Sinyinza**
 
-- GitHub: [@Chimwemwe-127001](https://github.com/Chimwemwe-127001)
-- Twitter: [@chimwewme](https://twitter.com/chimwewme)
+- GitHub: [@Busiwa24](https://github.com/Busiwa24)
+- Twitter: [@busiwaliuma](https://twitter.com/busiwaliuma)
 
 ## 🤝 Contributing
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](https://github.com/Chimwemwe-127001/hello-rails-back-end/issues).
+Feel free to check the [issues page](https://github.com/Busiwa24/hello-rails-back-end/issues).
 
 ## Show your support
 
